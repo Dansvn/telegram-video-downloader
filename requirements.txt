@@ -1,3 +1,2 @@
 python-telegram-bot==20.8
-yt-dlp==2024.4.9
-
+yt-dlp>=2024.4.9
